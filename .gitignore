@@ -1,0 +1,20 @@
+# Local environment variables (IMPORTANT)
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+build/
+dist/
+
+# Logs
+logs/*.log
+
+# Mac system files
+.DS_Store
+
+# IDE
+.vscode/
